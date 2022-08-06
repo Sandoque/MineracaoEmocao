@@ -1,0 +1,1 @@
+###Mineração de emoção em textos com python e NLTK
