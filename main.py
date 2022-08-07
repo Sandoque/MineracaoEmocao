@@ -43,4 +43,4 @@ def aplica_stemmer(texto):
 
 frases_com_stemming = aplica_stemmer(base)
 
-print(frases_com_stemming)
+#print(frases_com_stemming)
